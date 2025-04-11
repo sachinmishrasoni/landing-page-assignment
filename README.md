@@ -17,21 +17,20 @@ A modern, responsive landing page built using **HTML**, **CSS**, and **JavaScrip
 
 ![Landing Page Preview](https://via.placeholder.com/1200x600.png?text=Landing+Page+Preview)
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 - HTML5
-- CSS3 (with CSS variables)
-- JavaScript (Vanilla)
+- CSS3 (with variables for theme colors)
+- JavaScript (for testimonial slider)
 
-## 📁 Folder Structure
+## 📱 Responsive Design
 
-📦 landing-page ├── index.html ├── style.css ├── script.js
+Optimized for mobile, tablet, and desktop views using media queries.
 
-## 🚀 Getting Started
+## 📦 Installation
 
-Clone the repo and open `index.html` in your browser.
+Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-open index.html
+git clone https://github.com/sachinmishrasoni/landing-page-assignment.git
+cd landing-page-assignment
