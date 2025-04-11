@@ -15,7 +15,7 @@ A modern, responsive landing page built using **HTML**, **CSS**, and **JavaScrip
 
 ## 🖼 Preview
 
-![Landing Page Preview](https://via.placeholder.com/1200x600.png?text=Landing+Page+Preview)
+![Landing Page Screenshot](./assets/screenshot.png)
 
 ## 🛠️ Tech Stack
 
